@@ -1,0 +1,34 @@
+{
+    "places_header": "Twoje Miejsca",
+    "@places_header": {},
+
+    "places_paragraph": "Nie dodano jeszcze żadnych miejsc",
+    "@places_paragraph": {},
+
+        "location_getCurrentLocation": "Pobierz bieżącą lokalizację",
+    "@places_paragraph": {},
+
+    "location_selectOnMap": "Wskaż Na Mapie",
+    "@places_paragraph": {},
+
+    "location_noLocationChosen": "Nie wybrano lokalizacji",
+    "@places_paragraph": {},
+
+    "map_pick": "Wybierz swoją lokalizację",
+    "@places_paragraph": {},
+
+    "map_chosen": "Twoja lokalizacja",
+    "@places_paragraph": {},
+
+    "image_text": "Zrób zdjęcie",
+    "@places_paragraph": {},
+
+    "addPlace_title": "Tytuł",
+    "@places_paragraph": {},
+
+    "addPlace_header": "Dodaj nowe miejsce",
+    "@places_paragraph": {},
+
+    "addPlace_btn": "Dodaj miejsce",
+    "@places_paragraph": {}
+}

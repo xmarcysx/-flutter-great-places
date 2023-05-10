@@ -1,0 +1,34 @@
+{
+    "places_header": "Your Places",
+    "@places_header": {},    
+  
+    "places_paragraph": "No places added yet",
+    "@places_paragraph": {},
+
+    "location_getCurrentLocation": "Get Current Location",
+    "@places_paragraph": {},
+
+    "location_selectOnMap": "Select On Map",
+    "@places_paragraph": {},
+
+    "location_noLocationChosen": "No location chosen",
+    "@places_paragraph": {},
+
+    "map_pick": "Pick your Location",
+    "@places_paragraph": {},
+
+    "map_chosen": "Your Location",
+    "@places_paragraph": {},
+
+    "image_text": "Take Picture",
+    "@places_paragraph": {},
+
+    "addPlace_title": "Title",
+    "@places_paragraph": {},
+
+    "addPlace_header": "Add new Place",
+    "@places_paragraph": {},
+
+    "addPlace_btn": "Add Place",
+    "@places_paragraph": {}
+}
